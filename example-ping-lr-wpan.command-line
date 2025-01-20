@@ -1,0 +1,17 @@
+/**
+ \file example-ping-lr-wpan.cc
+<h3>Usage</h3>
+<code>$ ./ns3 run "example-ping-lr-wpan [Program Options]"</code>
+
+<h3>Program Options</h3>
+<dl>
+  <dt>\c --verbose </dt>
+    <dd>turn on log components [false] </dd>
+  <dt>\c --disable-pcap </dt>
+    <dd>disable PCAP generation [false] </dd>
+  <dt>\c --disable-asciitrace </dt>
+    <dd>disable ascii trace generation [false] </dd>
+  <dt>\c --enable-sixlowpan-loginfo </dt>
+    <dd>enable sixlowpan LOG_LEVEL_INFO (used for tests) [false] </dd>
+</dl>
+*/

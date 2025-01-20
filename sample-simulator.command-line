@@ -1,0 +1,5 @@
+/**
+ \file sample-simulator.cc
+<h3>Usage</h3>
+<code>$ ./ns3 run "sample-simulator"</code>
+*/
