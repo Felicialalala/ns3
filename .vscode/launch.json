@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch NS-3 Test02",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "/home/yangyiting/workspace/ns-3-allinone/ns-3.42/ns3",
+            "args": [
+                "run",
+                "contrib/nr/examples/test02.cc",
+                "--useRandomDistribution=true",
+                "--useWaterFilling=true"
+            ],
+            "stopAtEntry": false,
+            "cwd": "/home/yangyiting/workspace/ns-3-allinone/ns-3.42",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+    ]
+}
