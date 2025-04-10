@@ -10,3 +10,7 @@ public/
 tutorial/build
 .idea
 .gitlab-ci-local
+
+!examples/
+!helper/
+!model/
