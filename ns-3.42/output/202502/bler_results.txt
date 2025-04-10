@@ -1,0 +1,30 @@
+gNbNum: 1
+ueNum: 20
+simTime: 5 seconds
+totalTxPower: 46.9897 dBm
+===== DL BLER Statistics (CellId, RNTI) =====
+Cell 1 RNTI 1: Total=921, Bad=0, BLER=0.00%
+Cell 1 RNTI 2: Total=921, Bad=0, BLER=0.00%
+Cell 1 RNTI 3: Total=921, Bad=0, BLER=0.00%
+Cell 1 RNTI 4: Total=922, Bad=0, BLER=0.00%
+Cell 1 RNTI 5: Total=921, Bad=0, BLER=0.00%
+Cell 1 RNTI 6: Total=921, Bad=0, BLER=0.00%
+Cell 1 RNTI 7: Total=922, Bad=0, BLER=0.00%
+Cell 1 RNTI 8: Total=921, Bad=0, BLER=0.00%
+Cell 1 RNTI 9: Total=920, Bad=0, BLER=0.00%
+Cell 1 RNTI 10: Total=920, Bad=0, BLER=0.00%
+Cell 1 RNTI 11: Total=920, Bad=0, BLER=0.00%
+Cell 1 RNTI 12: Total=921, Bad=0, BLER=0.00%
+Cell 1 RNTI 21: Total=923, Bad=0, BLER=0.00%
+Cell 1 RNTI 22: Total=921, Bad=0, BLER=0.00%
+Cell 1 RNTI 23: Total=921, Bad=0, BLER=0.00%
+Cell 1 RNTI 24: Total=1012, Bad=91, BLER=8.99%
+Cell 1 RNTI 25: Total=923, Bad=0, BLER=0.00%
+Cell 1 RNTI 26: Total=921, Bad=0, BLER=0.00%
+Cell 1 RNTI 27: Total=921, Bad=0, BLER=0.00%
+Cell 1 RNTI 28: Total=921, Bad=0, BLER=0.00%
+
+===== UL BLER Statistics (CellId, RNTI) =====
+
+TimeStamp: 2025-02-16 17:30:54
+Simulation Duration: 304 seconds

@@ -1,0 +1,61 @@
+Flow 1 (7.0.0.2:49153 -> 1.0.0.2:1239) proto UDP
+  Tx Packets: 20
+  Tx Bytes:   10560
+  TxOffered:  0.844800 Mbps
+  Rx Bytes:   6336
+  Throughput: 0.506880 Mbps
+  Mean delay:  5.312753 ms
+  Mean jitter:  1.169833 ms
+  Rx Packets: 12
+  Lost Packets: 8
+  Packet Loss Rate: 40.000000 %
+Flow 2 (7.0.0.3:49153 -> 1.0.0.2:1240) proto UDP
+  Tx Packets: 20
+  Tx Bytes:   10560
+  TxOffered:  0.844800 Mbps
+  Rx Bytes:   1584
+  Throughput: 0.126720 Mbps
+  Mean delay:  9.065387 ms
+  Mean jitter:  1.999848 ms
+  Rx Packets: 3
+  Lost Packets: 17
+  Packet Loss Rate: 85.000000 %
+Flow 3 (7.0.0.4:49153 -> 1.0.0.2:1241) proto UDP
+  Tx Packets: 20
+  Tx Bytes:   10560
+  TxOffered:  0.844800 Mbps
+  Rx Bytes:   10032
+  Throughput: 0.802560 Mbps
+  Mean delay:  5.069307 ms
+  Mean jitter:  1.094033 ms
+  Rx Packets: 19
+  Lost Packets: 1
+  Packet Loss Rate: 5.000000 %
+Flow 4 (7.0.0.5:49153 -> 1.0.0.2:1242) proto UDP
+  Tx Packets: 20
+  Tx Bytes:   10560
+  TxOffered:  0.844800 Mbps
+  Rx Bytes:   10560
+  Throughput: 0.844800 Mbps
+  Mean delay:  4.965532 ms
+  Mean jitter:  1.119666 ms
+  Rx Packets: 20
+  Lost Packets: 0
+  Packet Loss Rate: 0.000000 %
+
+  Mean flow throughput: 0.570240Mbps
+  Mean flow delay: 6.103245ms
+ Mean packet loss rate: 32.500000%
+Average Downlink BLER by Cell: 0.000000%
+Average Downlink MCS by Cell: 0.000000
+Average Downlink RB by Cell: 0.000000
+Average Uplink BLER by Cell: 46.575342%
+Average Uplink MCS by Cell: 14.000000
+Average Uplink RB by Cell: 27.000000
+2.28Mbps
+6.10ms
+32.50%
+46.58%
+Global Average MCS: 14.00
+Global Average RB: 27.00
+Actual Bandwidth: 100000000.00 vs Numerology: 1

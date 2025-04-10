@@ -1,0 +1,12 @@
+===== Recent BLER (Last 50 TBs) =====
+Cell 1 RNTI 1: RecentBLER=17.39% (Based on 46 samples)
+Cell 1 RNTI 2: RecentBLER=100.00% (Based on 50 samples)
+Cell 1 RNTI 3: RecentBLER=0.00% (Based on 50 samples)
+Cell 1 RNTI 4: RecentBLER=0.00% (Based on 50 samples)
+===== DL Recent BLER (Last 50 TBs) =====
+
+===== UL Recent BLER (Last 50 TBs) =====
+Cell 1 RNTI 1: RecentBLER=17.39% (Based on 46 samples)
+Cell 1 RNTI 2: RecentBLER=100.00% (Based on 50 samples)
+Cell 1 RNTI 3: RecentBLER=0.00% (Based on 50 samples)
+Cell 1 RNTI 4: RecentBLER=0.00% (Based on 50 samples)

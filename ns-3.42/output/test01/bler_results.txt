@@ -1,0 +1,15 @@
+gNbNum: 1
+ueNum: 4
+simTime: 0.5 seconds
+totalTxPower: 46.9897 dBm
+===== DL BLER Statistics (CellId, RNTI) =====
+
+===== UL BLER Statistics (CellId, RNTI) =====
+Cell 1 RNTI 1: Total=46, Bad=8, BLER=17.39%, AvgMCS=11.2, AvgRB=36.9
+Cell 1 RNTI 2: Total=138, Bad=128, BLER=92.75%, AvgMCS=20.7, AvgRB=19.5
+Cell 1 RNTI 3: Total=54, Bad=0, BLER=0.00%, AvgMCS=13.6, AvgRB=26.1
+Cell 1 RNTI 4: Total=54, Bad=0, BLER=0.00%, AvgMCS=13.6, AvgRB=26.1
+
+TimeStamp: 2025-04-10 08:53:02
+Simulation Duration: 21 seconds
+Max DL RB: 0,Max UL RB: 96
